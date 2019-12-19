@@ -1,0 +1,1 @@
+bin2dec is a binary to decimal number converter
